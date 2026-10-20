@@ -15,7 +15,7 @@ Host your own encrypted voice relay on **Home Assistant OS, Raspberry Pi, Linux,
 - Temporary delivery of missed short messages for up to 15 minutes.
 - Home Assistant dashboard in English, Danish and Romanian.
 
-[Explore the relay](https://github.com/funkoneinc/MeshTeam-PTT-Relay) · [Installation guides](https://github.com/funkoneinc/MeshTeam-PTT-Relay#installation) · [Beta downloads](https://github.com/funkoneinc/MeshTeam-PTT-Relay/releases)
+[Explore the relay](https://github.com/funkoneinc/MeshTeam-PTT-Relay) · [Installation guides](https://github.com/funkoneinc/MeshTeam-PTT-Relay#first-installation) · [Beta downloads](https://github.com/funkoneinc/MeshTeam-PTT-Relay/releases)
 
 The relay is available under the **MIT license**, including commercial use and modification. The Android app is a separate product with its own license and optional Full Access purchase. Windows and macOS currently use server/Docker setups; the dashboard is available in Home Assistant.
 
